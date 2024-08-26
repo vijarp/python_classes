@@ -13,7 +13,7 @@ Bonus: Implement the __len__ method to return the magnitude (length) of the vect
 
 import math  # Import the math module for square root calculation
 
-class Vector:
+class Vector: 
     def __init__(self, x, y):
         self.x = x
         self.y = y
